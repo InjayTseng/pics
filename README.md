@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Image Search Web App through Unsplash API
+
+![alt text](https://i.imgur.com/P9qfKRL.png)
 
 ## Available Scripts
 
